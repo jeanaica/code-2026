@@ -11,11 +11,11 @@ This is my nth attempt to code and improve this 2026.
 ---
 
 ## January
-**Theme:** 30 Days of JavaScript
+**Theme:** 30 Days of JavaScript + website revamp
 
 - [x] Start with getting the hang of things
 - [x] Just show up everyday
-
+- [ ] Consolidate websites
 ---
 
 ## February
